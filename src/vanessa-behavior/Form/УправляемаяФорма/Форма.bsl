@@ -158,7 +158,7 @@
 
 &НаКлиенте
 Функция ПолучитьСтрокуВызоваSikuli() Экспорт
-	Возврат """C:\Program Files (x86)\Java\jre6\bin\java.exe"" -Xms64M -Xmx512M -Dfile.encoding=UTF-8 -Dpython.path=""C:\Program Files (x86)\Sikuli X\sikuli-script.jar/"" -jar ""C:\Program Files (x86)\Sikuli X\sikuli-ide.jar"" -r ";
+	Возврат "runsikulix -r";
 КонецФункции	
 
 &НаКлиенте
